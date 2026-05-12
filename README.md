@@ -8,7 +8,7 @@ I am affiliated with The C# Academy, where I perform code reviews, and submit pr
 * **Frameworks & Tools:** Entity Framework, .NET, SQL Server
 
 ### Current Goals / Projects
-I am currently diving deep into **.NET MAUI** to expand my cross-platform development skills.
+I am currently diving into **.NET MAUI** to expand my cross-platform development skills.
 * **Golf Handicap Tracker:** This is a personal project, and will be a mobile application with C# and MAUI currently in development designed to help golfers track their progress and calculate handicaps on the go.
 * **Sports Results Notifier** This is my current project for The C# Academy, it is a web scraper of basketball reference, that will email daily sports results to myself. 
 
