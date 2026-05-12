@@ -1,6 +1,7 @@
 # David Sills | Software Engineer
 
-Welcome to my GitHub. I am a Computer Science graduate focused on building robust, data-driven applications. I enjoy solving complex problems through clean code and efficient database design.
+Welcome to my GitHub. I am a Computer Science graduate focused on building robust applications, and learning more about software development. I enjoy solving complex problems through clean code and efficient database design.
+I am affiliated with The C# Academy, where I perform code reviews, and submit projects of my own. 
 
 ### Tech Stack
 * **Languages:** C#, Python, SQL
