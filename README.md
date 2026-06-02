@@ -29,7 +29,7 @@ I am currently wrapping up the advanced console section in The C# Academy, then 
 * **Improving DSA / Problem Solving skills:** I am currently working through the "Neetcode 150" to help brush up on my DSA knowledge. [I have a repository of my submissions!](https://github.com/DSills735/neetcode-solutions)
   
 ### Roadmap
-* **Short Term:** Gain some higher level frontend knowledge, and create a useful full stack application with a frontend framework. Ideally I am thinking MAUI or Angular for my first.
+* **Short Term:** Gain some higher level frontend knowledge, and create a useful full stack application with a frontend framework. I originally wanted to do MAUI first, but I decided to do react to get some javascript exposure.
 * **Long Term:** Learn another programming language outside of my experience. My considerations right now are improve one of my minimal experience languages, or learn a whole new language. I am open to suggestions!
 
 ### Connect with Me
