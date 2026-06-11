@@ -25,11 +25,10 @@ I am affiliated with The C# Academy, where I perform code reviews, and submit pr
 I am currently wrapping up the advanced console section in The C# Academy, then I will be working on a full stack application in either MAUI or Angular.
 
 * **Golf Handicap Tracker:** This is a personal project, and will be a mobile application with C# and MAUI currently in development designed to help golfers track their progress and calculate handicaps on the go.
-* **[eCommerce Document Processor](https://github.com/DSills735/eCommerce.DocumentProcessor):** This is my current project for The C# Academy, is going to be a document processor, that intakes data to be seeded into the API, and will output to PDF and Azure blob.
 * **Improving DSA / Problem Solving skills:** I am currently working through the "Neetcode 150" to help brush up on my DSA knowledge. [I have a repository of my submissions!](https://github.com/DSills735/neetcode-solutions)
   
 ### Roadmap
-* **Short Term:** Gain some higher level frontend knowledge, and create a useful full stack application with a frontend framework. I originally wanted to do MAUI first, but I decided to do react to get some javascript exposure.
+* **Short Term:** Gain some higher level frontend knowledge, and create a useful full stack application with a frontend framework. I am learning MAUI now to support my Golf Handicap app. 
 * **Long Term:** Learn another programming language outside of my experience. My considerations right now are improve one of my minimal experience languages, or learn a whole new language. I am open to suggestions!
 
 ### Connect with Me
