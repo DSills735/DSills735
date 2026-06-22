@@ -25,7 +25,7 @@ I am affiliated with The C# Academy, where I perform code reviews, and submit pr
 I am currently wrapping up the advanced console section in The C# Academy, then I will be working on a full stack application in either MAUI or Angular.
 
 * **Golf Handicap Tracker:** This is a personal project, and will be a mobile application with C# and MAUI currently in development designed to help golfers track their progress and calculate handicaps on the go.
-* **Improving DSA / Problem Solving skills:** I am currently working through the "Neetcode 150" to help brush up on my DSA knowledge. [I have a repository of my submissions!](https://github.com/DSills735/neetcode-solutions)
+* **Unity Development:** I am currently learning Unity through the Unity Learn platform. Unfortunately, I am not tracking my progress with this on github. 
   
 ### Roadmap
 * **Short Term:** Gain some higher level frontend knowledge, and create a useful full stack application with a frontend framework. I am learning MAUI now to support my Golf Handicap app. 
