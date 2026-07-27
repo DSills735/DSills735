@@ -22,10 +22,8 @@ I am affiliated with The C# Academy, where I perform code reviews, and submit pr
 </p>
 
 ### Current Goals / Projects
-I am currently wrapping up the advanced console section in The C# Academy, then I will be working on a full stack application in either MAUI or Angular.
-
-* **Golf Handicap Tracker:** This is a personal project, and will be a mobile application with C# and MAUI currently in development designed to help golfers track their progress and calculate handicaps on the go.
-* **Unity Development:** I am currently learning Unity through the Unity Learn platform. Unfortunately, I am not tracking my progress with this on github. 
+I am currently learning working through the Unity Game Development pathway on the unity learn platform. 
+* **Unity Development:** I am currently working on explanding the basic "Roll-A-Ball" game by following the Game Development Pathway and adding my own touches.
   
 ### Roadmap
 * **Short Term:** Gain some higher level frontend knowledge, and create a useful full stack application with a frontend framework. I am learning MAUI now to support my Golf Handicap app. 
